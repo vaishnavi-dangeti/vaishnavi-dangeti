@@ -1,13 +1,14 @@
+
 ## 🛠️ Skill Stack
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" alt="SQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Excel"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="55" height="55" alt="Power BI"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" width="55" height="55" alt="SQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="55" height="55" alt="Excel"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/python.png" width="55" height="55" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/96/github.png" width="55" height="55" alt="GitHub"/>
 </p>
