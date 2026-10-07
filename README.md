@@ -7,103 +7,74 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm an aspiring Data & Business Analyst who enjoys turning data
+I’m an aspiring Data & Business Analyst interested in turning data
 into clear business insights and decisions.
 
-- 📊 Interested in Data Analytics & Business Analytics
-- 💰 Interested in pricing, revenue & business performance
-- 🛠️ Building practical analytics projects
-- 📈 Working with SQL, Excel, Power BI & Python
+- 📊 Data & Business Analytics
+- 💰 Pricing, promotions & revenue analysis
+- 📈 Power BI dashboards
+- 🗃️ SQL & Excel analytics
 - 🎯 Open to Data Analyst & Business Analyst opportunities
 
 ---
 
 ## 🛠️ Skill Stack
 
-**Analytics**
-- SQL
-- Excel
-- Power BI
-- Python
-
-**Business & Analysis**
-- Data Cleaning
-- Exploratory Data Analysis
-- KPI Analysis
-- Pricing Analysis
-- Revenue Analysis
-- Data Visualization
-- Business Storytelling
+**SQL • Excel • Power BI • Python • Data Visualization • Business Analysis**
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Projects — Showcase
 
-## 💰 ₹640M on the Table — Pricing Opportunity Analysis
+## 🛒 Do Discounts Pay? — Walmart Discount Analysis
 
-### AI-Powered Dynamic Pricing & Revenue Optimization
+**Understanding how discounts impact profitability and sales.**
 
-A business-focused analytics project analyzing **500 products**
-to identify pricing opportunities and potential revenue uplift.
+📊 **5 years of Walmart sales data analyzed**
 
-### 🔍 What I Did
-
-- Analyzed product and sales data
-- Studied competitor pricing
-- Incorporated price elasticity
-- Built a Random Forest demand model
-- Tested different pricing scenarios
-- Identified revenue-maximizing price recommendations
-- Built an interactive Power BI dashboard
-
-### 📊 Key Results
+### Key Findings
 
 | Metric | Result |
 |---|---:|
-| Products Analyzed | 500 |
-| Revenue Opportunity | ₹640M |
-| Modeled Revenue Lift | 4.37% |
-| Average Price Movement | 3.0% |
+| Revenue Analyzed | $22.9M |
+| Profit Lost to Discounts | $69.6K |
+| Discount Weeks Tested | 14,016 |
+| Food Price Elasticity | -0.59 |
+| SNAP Food Sales Impact | Up to +18.6% |
 
-### 📌 Tools
+### 🔍 Business Question
 
-`SQL` `Python` `Power BI` `Excel`
+Do Walmart discounts actually drive enough additional sales to
+justify the profit given away through markdowns?
+
+### 🧰 Tools
+
+`SQL` `Power BI` `Python` `Excel`
 
 ---
 
-## 📂 Project Showcase
+## 📊 Dashboard
 
-### 💰 Pricing Opportunity Analysis
-**Pricing • Revenue • Demand • Power BI**
+**Walmart Discount Analysis**
 
-An end-to-end business analytics project focused on
-understanding pricing opportunities and revenue impact.
-
-🔗 **View Project →** [GitHub Repository](#)
+[🔗 View Project](YOUR_PROJECT_LINK)
 
 ---
 
 ## 🎯 Currently Learning
 
-- Advanced SQL
-- Power BI & DAX
-- Excel for Analytics
-- Business Analysis
-- Data Storytelling
+SQL • Power BI • Excel • Business Analysis • Data Storytelling
 
 ---
 
 ## 🤝 Let's Connect
 
-🔗 [LinkedIn](YOUR_LINKEDIN_URL)
-
-💻 [GitHub](YOUR_GITHUB_URL)
+[LinkedIn](YOUR_LINKEDIN_LINK) • [GitHub](https://github.com/vaishnavi-dangeti)
 
 ---
 
-### 💭 My Approach
+### My Approach
 
-**Ask the question → Query the data → Find the pattern →  
-Explain the insight → Drive the decision.**
+**Ask
